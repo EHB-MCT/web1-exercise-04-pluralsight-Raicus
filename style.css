@@ -1,0 +1,50 @@
+h3 {
+	color: #ff1675;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 10px;
+	padding-top: 25px;
+	font-size: 18px;
+}
+
+h1 {
+	padding: 10px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 48px;
+}
+
+p {
+	margin: 15px;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+a {
+	display: inline-block;
+	background-color: #ff1675;
+	padding: 15px;
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	font-weight: bold;
+	border-radius: 20px;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+a:hover {
+	background-color: gray;
+}
+
+body {
+	background: rgb(101, 23, 88);
+	background: linear-gradient(
+		90deg,
+		rgba(101, 23, 88, 1) 0%,
+		rgba(49, 21, 98, 1) 35%,
+		rgba(27, 24, 52, 1) 100%
+	);
+}
